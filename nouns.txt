@@ -4867,8 +4867,6 @@ raccoon
 race
 racer
 racing
-racism
-racist
 rack
 radar
 radiator
